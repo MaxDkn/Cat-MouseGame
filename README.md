@@ -1,7 +1,7 @@
 # Cat and Mouse Game in Python
 
 Welcome to the Cat and Mouse game, a simple and fun game created in Python using the Pygame library.
-
+![Game Screenshot](screenshot.png)
 ## Game Rules
 
 - **Objective:** Touch the opponent to score points.
